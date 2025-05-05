@@ -60,7 +60,14 @@ These are linked via a unified [umbrella repository](https://github.com/dvelasqu
 
 ## 📸 Screenshots
 
-_(Add screenshots here to showcase key features like filters, mobile layout, and favorites.)_
+### 🏠 Homepage
+![Homepage Screenshot](https://github.com/dvelasquez124/the-student-support-portal/blob/main/homepage.png?raw=true)
+
+### ⭐ Favorites Example
+![Favorites Screenshot](https://github.com/dvelasquez124/the-student-support-portal/blob/main/favorites.png?raw=true)
+
+### 🔍 Search Example
+![Search Screenshot](https://github.com/dvelasquez124/the-student-support-portal/blob/main/search.png?raw=true)
 
 ---
 
